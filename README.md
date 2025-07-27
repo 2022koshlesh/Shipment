@@ -89,7 +89,7 @@ ShipNest is a comprehensive shipment delivery and tracking platform built for bo
 ## ⚙️ Installation (for local setup)
 
 ```bash
-git clone https://github.com/Shinkhal/Shipment.git
+git clone https://github.com/2022koshlesh/Shipment/
 cd Shipment
 
 # For frontend
