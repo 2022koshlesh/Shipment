@@ -11,7 +11,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:3000",         // React dev server
-  "https://shipment-dusky.vercel.app/"
+  "https://shipment-dusky.vercel.app"
 ];
 
 app.use(cors({
