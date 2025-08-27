@@ -81,7 +81,7 @@ ShipNest is a comprehensive shipment delivery and tracking platform built for bo
 
 | Dashboard | All Shipments | User Homepage | Active Shipments |
 |----------|---------------|---------------|---------|
-| <img width="1918" height="969" alt="image" src="https://github.com/user-attachments/assets/1f48a18c-86d4-4155-92f6-1e11e7db387d" /> | <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/46462d24-5662-4a0d-9421-e5d0d6ef0f97" />| <img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/b4fef785-1c39-4123-90fa-c0f6baac441a" /> | <img width="1871" height="970" alt="image" src="https://github.com/user-attachments/assets/279cc7f2-6c61-4fbd-a2bb-64dd86f7f37a" />
+| <img width="1918" height="969" alt="image" src="https://github.com/user-attachments/assets/1f48a18c-86d4-4155-92f6-1e11e7db387d" /> | <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/46462d24-5662-4a0d-9421-e5d0d6ef0f97" />| <img width="1918" height="932" alt="image" src="https://github.com/user-attachments/assets/51464dd3-f7c9-4df9-84f4-c320425272ba" /> | <img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/100bdc03-966b-4a64-9855-d8e14c7fcf5e" />
  |
 
 ---
@@ -146,6 +146,3 @@ Full Stack Developer | UI/UX Designer
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — feel free to fork, clone, and use it for educational purposes.
-
-
-change
